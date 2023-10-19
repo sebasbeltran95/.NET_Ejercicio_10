@@ -1,0 +1,14 @@
+D:\platzi\pooDemo\pooDemo\bin\Debug\net7.0\pooDemo.exe
+D:\platzi\pooDemo\pooDemo\bin\Debug\net7.0\pooDemo.deps.json
+D:\platzi\pooDemo\pooDemo\bin\Debug\net7.0\pooDemo.runtimeconfig.json
+D:\platzi\pooDemo\pooDemo\bin\Debug\net7.0\pooDemo.dll
+D:\platzi\pooDemo\pooDemo\bin\Debug\net7.0\pooDemo.pdb
+D:\platzi\pooDemo\pooDemo\obj\Debug\net7.0\pooDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\platzi\pooDemo\pooDemo\obj\Debug\net7.0\pooDemo.AssemblyInfoInputs.cache
+D:\platzi\pooDemo\pooDemo\obj\Debug\net7.0\pooDemo.AssemblyInfo.cs
+D:\platzi\pooDemo\pooDemo\obj\Debug\net7.0\pooDemo.csproj.CoreCompileInputs.cache
+D:\platzi\pooDemo\pooDemo\obj\Debug\net7.0\pooDemo.dll
+D:\platzi\pooDemo\pooDemo\obj\Debug\net7.0\refint\pooDemo.dll
+D:\platzi\pooDemo\pooDemo\obj\Debug\net7.0\pooDemo.pdb
+D:\platzi\pooDemo\pooDemo\obj\Debug\net7.0\pooDemo.genruntimeconfig.cache
+D:\platzi\pooDemo\pooDemo\obj\Debug\net7.0\ref\pooDemo.dll
